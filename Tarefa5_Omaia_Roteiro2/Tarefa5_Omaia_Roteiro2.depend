@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro2\main.cpp
+	<iostream>
+
+1576546419 source:c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro2\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1576546419 c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro2\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+
+1576545659 c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro2\include\trabalhador.h
+	<string>
+
+1576546419 source:c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro2\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1576546601 c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro2\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
+1576545678 source:c:\users\pedro\desktop\programas++\tarefa5_omaia_roteiro2\src\trabalhador.cpp
+	"Trabalhador.h"
+

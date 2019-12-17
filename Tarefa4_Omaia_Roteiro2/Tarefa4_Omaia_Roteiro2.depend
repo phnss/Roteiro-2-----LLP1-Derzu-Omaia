@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1576544440 source:c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\main.cpp
+	<iostream>
+	<locale>
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1576543519 source:c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1576543559 c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\include\figurageometrica.h
+	<string>
+
+1576543616 c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1576543675 source:c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\src\triangulo.cpp
+	"Triangulo.h"
+
+1576543796 source:c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\src\quadrado.cpp
+	"Quadrado.h"
+
+1576543811 c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1576544511 source:c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\src\circulo.cpp
+	"Circulo.h"
+
+1576544511 c:\users\pedro\desktop\programas++\tarefa4_omaia_roteiro2\include\circulo.h
+	"FiguraGeometrica.h"
+

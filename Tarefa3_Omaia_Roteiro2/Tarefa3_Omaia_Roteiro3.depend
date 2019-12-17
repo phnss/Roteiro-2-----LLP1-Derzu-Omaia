@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1575484903 source:c:\users\pedro\desktop\programas++\questoes 2 roteiro xurumelas\q2\tarefa3_omaia_roteiro3\src\consultor.cpp
+	<iostream>
+	"Consultor.h"
+
+1575483745 c:\users\pedro\desktop\programas++\questoes 2 roteiro xurumelas\q2\tarefa3_omaia_roteiro3\include\consultor.h
+	"Funcionario.h"
+
+1575483182 c:\users\pedro\desktop\programas++\questoes 2 roteiro xurumelas\q2\tarefa3_omaia_roteiro3\include\funcionario.h
+	<string>
+
+1575484469 source:c:\users\pedro\desktop\programas++\questoes 2 roteiro xurumelas\q2\tarefa3_omaia_roteiro3\src\funcionario.cpp
+	<iostream>
+	"Funcionario.h"
+
+1575484903 source:c:\users\pedro\desktop\programas++\questoes 2 roteiro xurumelas\q2\tarefa3_omaia_roteiro3\main.cpp
+	<iostream>
+	<locale>
+	"Consultor.h"
+
+1575484956 source:c:\users\pedro\desktop\programas++\tarefa3_omaia_roteiro2\main.cpp
+	<iostream>
+	<locale>
+	"Consultor.h"
+
+1575483745 c:\users\pedro\desktop\programas++\tarefa3_omaia_roteiro2\include\consultor.h
+	"Funcionario.h"
+
+1575483182 c:\users\pedro\desktop\programas++\tarefa3_omaia_roteiro2\include\funcionario.h
+	<string>
+
+1575484469 source:c:\users\pedro\desktop\programas++\tarefa3_omaia_roteiro2\src\funcionario.cpp
+	<iostream>
+	"Funcionario.h"
+
+1575485277 source:c:\users\pedro\desktop\programas++\tarefa3_omaia_roteiro2\src\consultor.cpp
+	<iostream>
+	"Consultor.h"
+

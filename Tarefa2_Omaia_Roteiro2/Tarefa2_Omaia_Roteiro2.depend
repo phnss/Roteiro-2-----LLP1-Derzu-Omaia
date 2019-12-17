@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1576540140 source:c:\users\pedro\desktop\programas++\tarefa2_omaia_roteiro2\src\pessoa.cpp
+	"Pessoa.h"
+
+1576540140 c:\users\pedro\desktop\programas++\tarefa2_omaia_roteiro2\include\pessoa.h
+	"Endereco.h"
+
+1576540140 source:c:\users\pedro\desktop\programas++\tarefa2_omaia_roteiro2\src\endereco.cpp
+	"Endereco.h"
+
+1576539287 c:\users\pedro\desktop\programas++\tarefa2_omaia_roteiro2\include\endereco.h
+	<string>
+
+1576540683 source:c:\users\pedro\desktop\programas++\tarefa2_omaia_roteiro2\main.cpp
+	<iostream>
+	<locale>
+	"Pessoa.h"
+
